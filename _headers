@@ -1,8 +1,11 @@
 /Build/buildWeb.framework.js.br
   Content-Encoding: br
+  Content-Type: application/javascript
 
 /Build/buildWeb.data.br
   Content-Encoding: br
+  Content-Type: application/octet-stream
 
 /Build/buildWeb.wasm.br
   Content-Encoding: br
+  Content-Type: application/wasm

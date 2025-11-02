@@ -1,2 +1,11 @@
-/*
+/buildWeb.data.br
   Content-Encoding: br
+  Cache-Control: max-age=31536000
+
+/buildWeb.framework.js.br
+  Content-Encoding: br
+  Cache-Control: max-age=31536000
+
+/buildWeb.wasm.br
+  Content-Encoding: br
+  Cache-Control: max-age=31536000
